@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "サザンカ",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2025-12-07T09:18:18.488057Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サザンカ",
+      "artist": "Leo Ieiri",
+      "has_synced": true,
+      "path": "select/01_サザンカ_Leo_Ieiri.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サザンカ",
+      "artist": "家入レオ",
+      "has_synced": true,
+      "path": "select/02_サザンカ_家入レオ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サザンカ",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/03_サザンカ_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サザンカ - Sasanqua",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/04_サザンカ_-_Sasanqua_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SEKAI NO OWARI「サザンカ」",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/05_SEKAI_NO_OWARI「サザンカ」_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サザンカ",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/06_サザンカ_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サザンカ - Sazanka",
+      "artist": "Leo Ieiri",
+      "has_synced": true,
+      "path": "select/07_サザンカ_-_Sazanka_Leo_Ieiri.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サザンカ",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/08_サザンカ_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サザンカ",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/pl_01_サザンカ_SEKAI_NO_OWARI.txt"
+    }
+  ]
+}
